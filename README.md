@@ -118,7 +118,7 @@ curl -X POST http://localhost:3000/api/books \
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/your-username/library-management-system.git
+git clone https://github.com/alina693/library-management-system.git
 cd library-management-system
 ```
 
@@ -169,8 +169,8 @@ See `backend/DEPLOY.md` for the full step-by-step deployment guide.
 
 ## 👤 About
 
-Built by [Your Name] as a project to learn full-stack development — from a static frontend, to a REST API, to a deployed cloud-connected application.
+Built by Alina John as a project to learn full-stack development — from a static frontend, to a REST API, to a deployed cloud-connected application.
 
-- GitHub: [your-github-profile](#)
-- LinkedIn: [your-linkedin](#)
-- Portfolio: [your-site](#)
+- GitHub: [https://github.com/alina693](#)
+- LinkedIn: [https://www.linkedin.com/in/alina-john-20421a297/](#)
+

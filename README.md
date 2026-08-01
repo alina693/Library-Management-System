@@ -17,7 +17,7 @@ Built to practice and demonstrate: RESTful API design, frontend-backend integrat
 
 ## 🎥 See it in action
 
-The GIF below shows adding a book on the website and the same row appearing instantly in the Neon database dashboard — demonstrating the frontend, backend, and database are truly connected, not just using mock data.
+The Images below shows adding a book on the website and the same row appearing instantly in the Neon database dashboard — demonstrating the frontend, backend, and database are truly connected, not just using mock data.
 
 ![Demo of adding a book and seeing it update in the database](docs/screenshots/demo.gif)
 
